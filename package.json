@@ -1,0 +1,23 @@
+{
+  "name": "sitepoint-postcss",
+  "version": "1.0.0",
+  "description": "Starter point for Getting Started with postCSS",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "postcss": "^5.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "cssnano": "^3.7.4",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.2.0",
+    "postcss-browser-reporter": "^0.5.0"
+  },
+  "keywords": [
+    "gulp",
+    "postcss"
+  ],
+  "author": "Thomas Greco",
+  "license": "ISC"
+}

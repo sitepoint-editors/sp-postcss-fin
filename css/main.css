@@ -1,0 +1,27 @@
+:root {
+    --fontSize: 1.25em;
+    --fontType: 'Open Sans';
+    --bgColor: rebeccapurple;
+    --flex-row: {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+    }
+}
+
+
+body {
+    width: 100%;
+    color: #f0f0f0;
+    font-family: var(--fontType);
+    font-size: var(--fontSize);
+    background:  var(--bgColor);
+}
+
+.flex-row {
+    @apply --flex-row;
+    div {
+     width: 550px;
+    }
+}
