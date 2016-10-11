@@ -1,5 +1,5 @@
 # Intro to postCSS
-GitHub Repository for SitePoint Premium video on getting started with postCSS.
+GitHub Repository for SitePoint article - A primer on postcss-cssnext.
 
 #### Technologies used in this boilerplate:
 * [GulpJS](http://gulpjs.com/)
