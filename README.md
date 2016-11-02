@@ -8,7 +8,7 @@ GitHub Repository for SitePoint article - A primer on postcss-cssnext.
 * [postcss-browser-reporter](https://github.com/postcss/postcss-browser-reporter)
 
 
-This repository contains the final code version for the video. To get the code, run the following commands.
+To get the code, run the following commands.
 
 ```bash
 #clone project && change into proj directory
